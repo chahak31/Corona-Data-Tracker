@@ -1,7 +1,7 @@
 # Corona-Data-Tracker
 Web Scraping using requests, BeautifulSoup, plyer, tkinter
 
-**Requests**: This helps in getting the html data (through URL) from the website
+**requests**: This helps in getting the html data (through URL) from the website
 
 **BeautifulSoup**: This helps in parsing HTML documents
 
